@@ -1,0 +1,7 @@
+Usage:
+  Run translate.py; user will be prompted to enter RNA sequence.
+
+  Input should be in the form of an RNA sequence string.
+  Output will be in the form of an amino acid string.
+
+This code is simply for reference and can be used without restriction.
